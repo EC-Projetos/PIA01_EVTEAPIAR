@@ -6,3 +6,6 @@ matriz_od/data/csv/matriz_od_turismo.csv
 matriz_od/data/csv/od_rodo.csv
 matriz_od/data/csv/matriz_od_horus.csv
 matriz_od/data/excel/xlsx/Estudo Rotas Potenciais.xlsx
+matriz_od/data/csv/matriz_od_completa.csv
+absorcao_demanda/data/csv/matriz_od_completa.csv
+absorcao_demanda/data/csv/matriz_od_horus.csv
